@@ -36,7 +36,7 @@ Game.prototype.gameLoop = function()
 
 Game.prototype.respond = function()
 {
-	ctx.fillText("You Win", 600, 100);
+	ctx.fillText("You Win", 600, 100); // win statement bro
 }
 
 function initCanvas()
